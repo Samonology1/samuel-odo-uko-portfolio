@@ -1,5 +1,4 @@
-# Samuel-Odo-Uko-portfolio 
-# Samuel Uko – Data Science Portfolio
+# Samuel Odo Uko – Data Science Portfolio
 
 ## About Me
 I am a biochemist and data science professional trained through the 3MTT program, with skills in Python, R, SQL, Power BI, SPSS, and Excel. I use data analytics and visualization to solve real-world problems.
